@@ -2,6 +2,8 @@
 
 This is a simple implementation of the classic game 2048 using HTML, CSS, and JavaScript. In this game, you combine tiles with the same number to reach the ultimate goal of 2048. Below, you'll find a brief overview of the game code and how to play.
 
+![PhoneBook](/Images/main.png)
+
 ## How to Play
 
 1. Open the `2048.html` file in a web browser.
@@ -11,6 +13,7 @@ This is a simple implementation of the classic game 2048 using HTML, CSS, and Ja
 5. Your score increases as you combine tiles.
 6. The game ends when there are no more empty spaces and no more moves can be made.
 
+![PhoneBook](/Images/second.png)
 ## Code Overview
 
 ### HTML (`2048.html`)
